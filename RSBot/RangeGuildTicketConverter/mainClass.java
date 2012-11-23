@@ -4,7 +4,7 @@ import org.powerbot.core.script.job.state.Tree;
 import org.powerbot.game.api.Manifest;
 import org.powerbot.game.api.util.Random;
 
-@Manifest(authors = { "NaStezZ" }, name = "TicketConverter")
+@Manifest(authors = { "NaStezZ" }, name = "RangeGuildTicketConverter")
 public class mainClass extends ActiveScript {
 
 	private Tree jobs = null;
